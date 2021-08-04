@@ -2,7 +2,7 @@
 
 <h1>Angular Nedir ?</h1>
 
-<p>Angular, Google tarafından geliştirilen ve desteklenen SPA(Single Page Application) uygulama yapılmasına olanak sağlayan javascript kütüphanesidir.</p>
+
 <p>Angular modüler bir yapıya sahiptir. Uygulumanızı parçalara bölebilir ve tekrar kullanabilirsiniz. Diğer frameworklere göre daha esnek bir yapıya sahiptir. Sizlere daha fazla kontrol edebileceğiniz alanlar sunar. Diğer SPA uygulamalarından ayıran en büyük farkı ise paketler ile birlikte gelmesidir.</p>
 <p>Angular javascript tabanlı açık kaynak kodlu yazılım geliştiricilerin web, mobil ve masaüstü ortamda kolay uygulama geliştirmelerini sağlayan bir platformdur.</p>
 <p> Angular Framework Javascript dilini kapsayan TypeScript ile yazılmıştır.</p>
@@ -13,6 +13,19 @@
 <p>TypeScript, Microsoft çalışanı Anders Hejlsberg tarafından tasarlanan açık kaynaklı programlama dilidir. TypeScript hem dil hem de araçlar kümesidir. TypeScript, JavaScript’in ek özellikler almış hali de denilebilir. İstemci tarafında (client-side) veya sunucu tarafında (server-side) çalışabilen JavaScript uygulamaları geliştirmek için kullanılabilir.</p>
 <p>Kavramsal olarak JavaScript’i daha kolay ve güvenli bir şekilde yazmamızı sağlayan “sanal editör” olarak da düşünebiliriz. Büyük ve karmaşık kod yapısına sahip projelerde verimliliği arttırır. Uzun JavaScript satırlarını daha az komutla ifade etmemizi sağlar. Nedeni ise JavaScript’in fonksiyonel olmasına karşın TypeScript’in nesne yönelimli olmasıdır. Bunun yanı sıra TypeScript kodunu anlamak daha kolaydır. Eğer JavaScript biliyorsanız bunu TypeScript’de de kolayca kullanabilirsiniz. Yani var olan JavaScript kodlarınızı TypeScript dosyanızın içersine ekleyip derleyebilirsiniz.</p>
 <p>JavaScript büyük iş veya projeler için kullanıldığında belirli zorluklar ortaya çıkarmaktadır. C#, Java ve C++ gibi statik olarak derlenen diller, geliştiricinin derleme işlemi sırasında hata denetimi gerçekleştirirken, JavaScript ise çalıştırılıncaya kadar bu hata denetimini gerçekleştiremez. Microsoft, TypeScript ile birlikte derleme aşamasında hata denetimi yapılabilen bir JavaScript sunmayı amaçlamıştır.</p>
+<br>
+<h2>SPA Nedir ?</h2>
+<p>Single Page Application, sunucudan yeni sayfaların tamamını yüklemek yerine geçerli sayfayı dinamik olarak yeniden yazarak kullanıcıyla etkileşime giren bir web uygulaması veya web sitesidir.</p>
+<p>SPA, her tıklamayla yalnızca ihtiyacınız olanı gönderir ve tarayıcınız bu bilgileri işler. Bu, sunucunun yaptığınız her tıklamayla tam sayfayı yeniden oluşturduğu ve tarayıcınıza gönderdiği geleneksel bir sayfa yüklemesinden farklıdır.</p>
+<p>Bu parça parça, istemci tarafı yöntemi, kullanıcılar için yükleme süresini daha hızlı hale getirir ve bir sunucunun göndermesi gereken bilgi miktarını çok daha az ve çok daha uygun maliyetli hale getirir.</p>
+<p>Popüler olan SPA Frameworkleri şunlardır;(Angular, Vue, React)</p>
 <p></p>
+<ul>
+<li>ANGULAR:Google tarafından geliştirilen ve desteklenen SPA(Single Page Application) uygulama yapılmasına olanak sağlayan javascript kütüphanesidir.</li>
+<li>REACT:React’ ı diğer SPA uygulamalarından ayıran en büyük farkı mobil dünyasındaki başarısıdır. React Native ile birlikte ios ve android çıktısı alabilirsiniz. Angulara göre en büyük farkı Virtiual DOM olmasıdır. Angular’ da projenizin optimizasyonunu yapmanız gerekiyor buda bazen can sıkıcı hale gelebiliyor fakat React sizlerden optimizasyonları beklemiyor.</li>
+<li>VUE:Vue’ nun diğer frameworklere göre render süreçleri daha hızlıdır ve öğrenim süresi oldukça kısadır. Virtual DOM Vue üzerinde de vardır.</li>
+</ul>
+<h2>SPA Kullanılan Uygulamalar</h2>
+
 <p></p>
 <p></p>
