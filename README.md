@@ -27,7 +27,7 @@
 </ul>
 <br>
 <h2>SPA Kullanılan Uygulamalar</h2>
-![image](https://user-images.githubusercontent.com/86946984/128211986-802285c0-67d6-41a1-8496-1490e6eb81ea.png)
+![image](https://user-images.githubusercontent.com/86946984/128212512-570f959a-552f-42e0-874a-8e120b6a010a.png)
 
 <h2>Neden Angular ?</h2>
 <ul>
