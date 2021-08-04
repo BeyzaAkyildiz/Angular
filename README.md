@@ -26,6 +26,6 @@
 <li>VUE:Vue’ nun diğer frameworklere göre render süreçleri daha hızlıdır ve öğrenim süresi oldukça kısadır. Virtual DOM Vue üzerinde de vardır.</li>
 </ul>
 <h2>SPA Kullanılan Uygulamalar</h2>
-
+![image](https://github.com/BeyzaAkyildiz/Angular/blob/main/spa.png)
 <p></p>
 <p></p>
