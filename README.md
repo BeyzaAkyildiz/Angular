@@ -27,7 +27,8 @@
 </ul>
 <br>
 <h2>SPA Kullanılan Uygulamalar</h2>
-![image][https://github.com/BeyzaAkyildiz/Angular/blob/main/spa.png]
+![image](https://user-images.githubusercontent.com/86946984/128210179-a949c336-6104-4e1b-954e-ee6c3ff6d643.png)
+
 <h2>Neden Angular ?</h2>
 <ul>
 <li>Hızlı bir biçimde SPA uygulama geliştirilebilir.</li>
