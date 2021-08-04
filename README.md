@@ -25,8 +25,20 @@
 <li>REACT:React’ ı diğer SPA uygulamalarından ayıran en büyük farkı mobil dünyasındaki başarısıdır. React Native ile birlikte ios ve android çıktısı alabilirsiniz. Angulara göre en büyük farkı Virtiual DOM olmasıdır. Angular’ da projenizin optimizasyonunu yapmanız gerekiyor buda bazen can sıkıcı hale gelebiliyor fakat React sizlerden optimizasyonları beklemiyor.</li>
 <li>VUE:Vue’ nun diğer frameworklere göre render süreçleri daha hızlıdır ve öğrenim süresi oldukça kısadır. Virtual DOM Vue üzerinde de vardır.</li>
 </ul>
+<br>
 <h2>SPA Kullanılan Uygulamalar</h2>
 ![image][https://github.com/BeyzaAkyildiz/Angular/blob/main/spa.png]
-
-<p></p>
-<p></p>
+<h2>Neden Angular ?</h2>
+<ul>
+<li>Hızlı bir biçimde SPA uygulama geliştirilebilir.</li>
+<li>Modüler bir yapıya sahiptir. Uygulamanızı parçalara bölebilirsiniz. Tekrar kullanılabilirlik konusunda oldukça başarılıdır.</li>
+<li>İhtiyacınız olan bütün paketler Angular içinde mevcut geliyor. Yani siz bir araba yapmak istiyorsanız Angular size arabanın kalıbını motorunu veriyor size sadece bunları birleştirmek kalıyor. Bu özellik Angular’ ı diğer SPA uygulamalardan ayıran en önemli özelliktir.</li>
+<li>Cross Platfromlar üzerinde çalışılabilir. Uygulamanızı web, desktop ve mobile olarak geliştirilebilir.</li>
+<li>Kullanıcı deneyimi olarak oldukça başarılıdır.</li>
+<li>Directive adı verilen yapı sayesinde HTML’e yeni etiketker veya attribute’lar eklemek mümkün.</li>
+<li>Aynı değişken üzerindeki herhangi bir değişiklik two-way data binding sayesinde bütün sayfa üzerindeki ilgili alanların değişmesini tetikler.</li>
+<li>Test Driven Development kavramına uygundur. Unit test yazmaya olanak sağlar.</li>
+</ul>
+<br>
+<h2>Kısaca</h2>
+<p> kompleks bir uygulama geliştireceksiniz, Angular’ ın paketler ile birlikte gelmesi ve mvc yapısını kullanması dolayısı ile projenizi yönetmeniz Angular ile kolay olacaktır. Tabi yaptığınız uygulamayı hızlı bir biçimde web, mobil ve dekstop üzerinde çalışmanızı istiyorsanız bu konuda da sizi oldukça destekliyor. Proje yaparken biz yazılımcıların olmazsa olmazı stackoverflow üzerinde oldukça fazla yazı bulunmakta. Bu da aslında karşılaşacağınız sorunları hızlı çözmeniz konusunda size yardımcı olacaktır.</p>
